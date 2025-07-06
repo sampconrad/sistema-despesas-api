@@ -1,4 +1,5 @@
 # Sistema de Despesas Mensais - Backend API
+![image](https://github.com/user-attachments/assets/76035ac5-14c0-4921-8679-40407f31a53d)
 
 ## Descrição
 
