@@ -71,7 +71,7 @@ sistema-despesas-api/
    ```
 
 2. **Crie um ambiente virtual** (recomendado):
-   - É fortemente indicado o uso de ambientes virtuais do tipo [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
+   É fortemente indicado o uso de ambientes virtuais do tipo [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
    ```bash
    python -m venv venv
    ```
