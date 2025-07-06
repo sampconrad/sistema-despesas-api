@@ -1,4 +1,4 @@
-# API de Despesas Mensais
+# Sistema de Despesas Mensais - Backend API
 
 ## Descrição
 
@@ -66,8 +66,7 @@ sistema-despesas-api/
 
 1. **Clone o repositório** (se aplicável):
    ```bash
-   git clone <url-do-repositorio>
-   cd <repositorio>
+   git clone https://github.com/sampconrad/sistema-despesas-api.git
    ```
 
 2. **Crie um ambiente virtual** (recomendado):
