@@ -61,6 +61,7 @@ sistema-despesas-api/
 
 - Python 3.8 ou superior
 - pip (gerenciador de pacotes Python)
+- O front-end pode ser encontrado em https://github.com/sampconrad/sistema-despesas-client
 
 ### Passos para Instalação
 
