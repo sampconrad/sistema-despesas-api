@@ -76,19 +76,19 @@ sistema-despesas-api/
    É fortemente indicado o uso de ambientes virtuais do tipo [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
    ```bash
-   python -m venv venv
+   python -m venv .venv
    ```
 
 3. **Ative o ambiente virtual**:
    
    **Windows:**
    ```bash
-   venv\Scripts\activate
+   .venv\Scripts\activate
    ```
    
    **Linux/Mac:**
    ```bash
-   source venv/bin/activate
+   source .venv/bin/activate
    ```
 
 4. **Instale as dependências**:
