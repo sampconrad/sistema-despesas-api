@@ -1,6 +1,10 @@
 # Sistema de Despesas Mensais - Backend API
 ![image](https://github.com/user-attachments/assets/e5d8cf35-bce5-4dd3-ab8f-b0baf7a44959)
 
+## Antes de tudo
+
+**📁 [Repositório com PyInstaller configurado](https://github.com/sampconrad/sistema-despesas)** - este link lhe levará para o monorepo com build automatizado, onde a aplicação é compilada em um único arquivo .exe para facilitar a utilização do sistema.
+
 ## Descrição
 
 API REST desenvolvida em Python com Flask para gerenciamento de despesas mensais. Esta aplicação permite cadastrar, visualizar, atualizar e excluir despesas com diferentes tipos de pagamento (CRÉDITO FIXO, CRÉDITO PARCELADO, PIX, BOLETO).
